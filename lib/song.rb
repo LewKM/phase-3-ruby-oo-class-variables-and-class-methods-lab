@@ -37,3 +37,7 @@ class Song
     end
 end
 
+
+Song.new("99 Problems", "Jay-Z", "rap")
+puts Song.artist_count
+
